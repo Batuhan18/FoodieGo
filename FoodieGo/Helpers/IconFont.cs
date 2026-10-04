@@ -25,5 +25,8 @@ namespace FoodieGo.Helpers
         public const string Sort = "\ue164";  // sırala
         public const string Sell = "\ue9e5";  // etiket (indirim)
         public const string ShoppingBasket = "\ue8cb";  // sepet (dolu)
+
+        public const string LocalShipping = "\ue558";
+
     }
 }
